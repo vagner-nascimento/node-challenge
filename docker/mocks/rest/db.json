@@ -1,0 +1,12 @@
+{
+  "": [
+    {
+      "id": "1",
+      "rest_data": "data from rest 1"
+    },
+    {
+      "id": "2",
+      "rest_data": "data from rest 1"
+    }
+  ]
+}
