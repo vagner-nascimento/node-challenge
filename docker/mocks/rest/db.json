@@ -1,12 +1,12 @@
 {
-  "": [
+  "type": [
     {
       "id": "1",
-      "rest_data": "data from rest 1"
+      "name": "Cat"
     },
     {
       "id": "2",
-      "rest_data": "data from rest 1"
+      "name": "Dog"
     }
   ]
 }
